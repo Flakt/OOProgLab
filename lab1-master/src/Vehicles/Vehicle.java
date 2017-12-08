@@ -223,7 +223,7 @@ public abstract class Vehicle implements Movable {
     public BufferedImage getImage() {
         try {
 
-            return ImageIO.read(new File("Z:\\lab1-master\\src\\pics\\"+getModelName()+".jpg"));
+            return ImageIO.read(new File("Z:\\OOProgLab\\lab1-master\\src\\pics\\"+getModelName()+".jpg"));
         }
         catch(IOException ex)
         {

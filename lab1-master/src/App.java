@@ -2,7 +2,6 @@ import Controllers.CarController;
 import Controllers.CarModel;
 import Controllers.CarView;
 import Vehicles.Vehicle;
-import Vehicles.VehicleFactory;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
